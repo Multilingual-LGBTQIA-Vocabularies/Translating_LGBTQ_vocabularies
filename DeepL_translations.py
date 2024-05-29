@@ -1,7 +1,7 @@
 import deepl
 import csv
 
-YOUR_API_KEY = "5fd103b7-510a-d088-5bad-f2b5a6261af7:fx"
+YOUR_API_KEY = "DEEPL_KEY_HERE"
 
 # Create a DeepL translator object
 translator = deepl.Translator(YOUR_API_KEY)
