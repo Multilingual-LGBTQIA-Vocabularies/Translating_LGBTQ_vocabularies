@@ -136,7 +136,7 @@ To reproduce the DeepL translations, you will need to create a DeepL account to 
 
 ## Acknowledgements
 
-I would like to start by expressing our gratitude to IHLIA for their support and contribution to this thesis, especially Jack van der Wel who was our Dutch expert, and his provision of the IHLIA data was crucial to our research. I would also like to thank K.J. Rawson alongside a group of students who were our Spanish experts, Sandrine Vachon who was our French expert, and Olov Kriström, our Swedish expert, whose assistance with providing data from the Queerlit database and QLIT was immensely helpful.
+I would like to start by expressing our gratitude to experts from IHLIA and the Homosaurus project for their support and contribution to this thesis, especially Jack van der Wel who was our Dutch expert, and his provision of the IHLIA data was crucial to our research. I would also like to thank Sandrine Vachon who was our French expert, and Olov Kriström, our Swedish expert, whose assistance with providing data from the Queerlit database and QLIT was immensely helpful.
 
 ## Other notes
 
